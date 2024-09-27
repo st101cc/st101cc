@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **st101cc/st101cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>My proficient coding languages, tools, and technologies: </h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+<p>I'm currently a third-year data science student at the London School of Economics and Political Science.</p>
+
+<h3>My tech stack</h3>
+<p>Python, R, React, HTML, CSS, git, database, data scraping, data analysis</p>
+
+<h3>My projects</h3>
+<ul>
+  <li><a href="https://github.com/st101cc/ST211_group_project.git"><i>Multiple Linear Regression</i></a></li>
+  <li><a href="https://github.com/st101cc/reddit.git"><i>Analysis on Public Perception Towards LSE on Reddit</i></a></li>
+  <li><a href="https://github.com/ml24330/dss2022.git"><i>eBay Auction Outcome Prediction</i></a></li>
+</ul>
