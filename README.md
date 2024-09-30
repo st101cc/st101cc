@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>I'm currently a third-year data science student at the London School of Economics and Political Science.</p>
 
 <h3>My tech stack</h3>
-<p>Python, R, React, HTML, CSS, git, database, data scraping, data analysis</p>
+<p>Python, R, React, Java, HTML, CSS, git, database, data scraping, data analysis</p>
 
 <h3>My projects</h3>
 <ul>
