@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <p>I'm currently a third-year data science student at the London School of Economics and Political Science.</p>
 
+<h3>My portfolio</h3>
+<p><a href="https://3dportfolio-mauve.vercel.app/"><i>Link</i></a></p>
+
 <h3>My tech stack</h3>
 <p>Python, R, React, Java, HTML, CSS, git, database, data scraping, data analysis</p>
 
