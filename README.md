@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <ul>
     <li>Built an interactive 3D portfolio website showcasing personal projects and experience</li>
     <li>Utilized Three.js for immersive 3D visuals and Firebase for real-time database management</li>
-    <a href="https://3dportfolio-mauve.vercel.app/"><i>Click here</i></a>
+    <br><a href="https://3dportfolio-mauve.vercel.app/"><i>Click here</i></a>
   </ul>
 
 <h3>🚀 My tech stack</h3>
