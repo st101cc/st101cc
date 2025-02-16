@@ -1,4 +1,4 @@
-## Hi
+## Hi👋 
 
 <!--
 **st101cc/st101cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
