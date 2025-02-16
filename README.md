@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <p>I'm currently a third-year data science student at the London School of Economics and Political Science (LSE).</p>
+<br>
 
 <h3>😊 My portfolio </h3> 
   <ul>
     <li>Built an interactive 3D portfolio website showcasing personal projects and experience</li>
     <li>Utilized Three.js for immersive 3D visuals and Firebase for real-time database management</li>
-    <br><a href="https://3dportfolio-mauve.vercel.app/"><i>Click here</i></a>
+    <a href="https://3dportfolio-mauve.vercel.app/"><i>Click here</i></a>
   </ul>
 
+<br>
 <h3>🚀 My tech stack</h3>
   <h4>👩‍💻 Programming Languages</h4>
     <ul>
