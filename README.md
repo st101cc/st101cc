@@ -61,20 +61,23 @@ Here are some ideas to get you started:
   <ul>
     <li>Scraped and analyzed Reddit discussions to assess public perception of LSE</li>
     <li>Used NLP techniques to classify sentiment and visualize trends over time</li>
-    <br><a href="https://github.com/st101cc/reddit.git"><i>link</i></a>
+    <a href="https://github.com/st101cc/reddit.git"><i>link</i></a>
   </ul>
+  <br>
 
 <h4>📌 eBay Auction Outcome Prediction</h4>
   <p>Tech Stack: Python, eBay API, Machine Learning Models</p>
   <ul>
     <li>Queried eBay API and analyzed factors influencing auction success using classifiers and regression models</li>
     <li>Identified seller feedback as the most significant predictor of successful sales</li>
-    <br><a href="https://github.com/ml24330/dss2022.git"><i>link</i></a>
+    <a href="https://github.com/ml24330/dss2022.git"><i>link</i></a>
   </ul>
+  <br>
 
 <h4>📌 Multiple Linear Regression</h4>
   <p>Tech Stack: R, linear regression</p>
   <ul>
     <li>Identified most significant predictors that affect GCSE grades</li>
-    <br><a href="https://github.com/st101cc/ST211_group_project.git"><i>link</i></a>
+    <a href="https://github.com/st101cc/ST211_group_project.git"><i>link</i></a>
   </ul>
+  <br>
