@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <ul>
     <li>Built an interactive 3D portfolio website showcasing personal projects and experience</li>
     <li>Utilized Three.js for immersive 3D visuals and Firebase for real-time database management</li>
-    <a href="https://3dportfolio-mauve.vercel.app/"><i>Click here</i></a>
+    <br><a href="https://3dportfolio-mauve.vercel.app/"><i>Click here</i></a>
   </ul>
 
 <br>
@@ -54,25 +54,27 @@ Here are some ideas to get you started:
       <li>Project Management: Jira, Confluence, Agile/Scrum</li>
     </ul>
 
+<br>
 <h3>💡 Notable Projects</h3>
-<h4>📌 Public Sentiment Analysis on Reddit</h4> <a href="https://github.com/st101cc/reddit.git"><i>link</i></a>
+<h4>📌 Public Sentiment Analysis on Reddit</h4> 
   <p>Tech stack: Python, matplotlib, seaborn, NLP</p>
   <ul>
     <li>Scraped and analyzed Reddit discussions to assess public perception of LSE</li>
     <li>Used NLP techniques to classify sentiment and visualize trends over time</li>
+    <br><a href="https://github.com/st101cc/reddit.git"><i>link</i></a>
   </ul>
 
 <h4>📌 eBay Auction Outcome Prediction</h4>
-  <a href="https://github.com/ml24330/dss2022.git"><i>link</i></a>
   <p>Tech Stack: Python, eBay API, Machine Learning Models</p>
   <ul>
     <li>Queried eBay API and analyzed factors influencing auction success using classifiers and regression models</li>
     <li>Identified seller feedback as the most significant predictor of successful sales</li>
+    <br><a href="https://github.com/ml24330/dss2022.git"><i>link</i></a>
   </ul>
 
 <h4>📌 Multiple Linear Regression</h4>
-  <a href="https://github.com/st101cc/ST211_group_project.git"><i>link</i></a>
   <p>Tech Stack: R, linear regression</p>
   <ul>
     <li>Identified most significant predictors that affect GCSE grades</li>
+    <br><a href="https://github.com/st101cc/ST211_group_project.git"><i>link</i></a>
   </ul>
